@@ -1,0 +1,20 @@
+{
+  "name": "NitLunch",
+  "short_name": "NitLunch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a3a8f",
+  "theme_color": "#1a3a8f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
